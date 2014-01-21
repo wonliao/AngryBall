@@ -6,7 +6,7 @@ AngryBall
 youtube 影片
 
 
-[![youtube 影片](http://img.youtube.com/vi/IPBXj9M7QHw/0.jpg)](http://www.youtube.com/watch?v=IPBXj9M7QHw)
+[![youtube 影片](https://i1.ytimg.com/vi/IPBXj9M7QHw/1.jpg)](http://www.youtube.com/watch?v=IPBXj9M7QHw)
 
 說明
 
